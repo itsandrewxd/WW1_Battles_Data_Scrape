@@ -130,3 +130,5 @@ Below is a summary of the steps we’ve taken to scrape, clean, and partially st
 - **`By_Hand_Fix_Quick.py`**: Manual date corrections.  
 - **Strength & Casualties** logic as seen in the notebook or integrated `.py` files containing functions like `parse_casualties_with_total`, `parse_strength`, etc.
 
+
+Kaggle Dataset: https://www.kaggle.com/datasets/itsandrewxd/world-war-i-battles
